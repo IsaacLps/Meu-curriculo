@@ -12,3 +12,6 @@ main {
     padding: 10px;
     box-shadow: 8px, 8px, black;
 }
+img {
+    float: right;
+}
